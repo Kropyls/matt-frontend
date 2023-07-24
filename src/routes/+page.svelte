@@ -47,7 +47,7 @@
       </button>
       <a
       class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800"
-      href="#">
+      href="http://dummy-site.com/forgot-pw">
         Forgot Password?
       </a>
     </div>
@@ -56,7 +56,7 @@
 
   <div class="m-auto text-center">
     <label class="text-gray-700" for="create-account">Need access?</label>
-    <a href="#!" 
+    <a href="http://dummy-site.com/create-account" 
     class="text-neutral-800 transition duration-150 ease-in-out hover:text-neutral-800 focus:text-neutral-800 active:text-neutral-900 dark:text-neutral-900 dark:hover:text-neutral-900 dark:focus:text-neutral-900 dark:active:text-neutral-900"
       >Create Account
     </a>
