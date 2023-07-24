@@ -7,8 +7,8 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 const config = {
 	kit: {
 		adapter: adapter({
-			pages: '../static',
-			assets: '../static',
+			pages: './frontend',
+			assets: './frontend',
 		})
 	},
 	preprocess: vitePreprocess()
